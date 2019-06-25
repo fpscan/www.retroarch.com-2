@@ -296,6 +296,13 @@
 
 <div id="news">
     <div class="container">
+
+        <h1>Latest Video</h1>
+
+        <div class="row">
+<iframe width="1180" height="720" src="https://www.youtube.com/embed?listType=user_uploads&amp;list=Libretro&modestbranding=1&showinfo=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
         <h1>News</h1>
 
         <div class="row">
